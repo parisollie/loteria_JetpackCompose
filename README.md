@@ -1,4 +1,4 @@
-## Lotery random elements -> Bloque: 8  JM
+## Lotery random elements, MVVM -> Bloque: 8  JM
 
 # The application look like this :
 
